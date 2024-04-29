@@ -10,3 +10,4 @@ function guardarNota(evento){
     localStorage.setItem("nota", nota)
 
 }
+
